@@ -6,10 +6,10 @@ At time step $t_0$, just one agent is infectious.
 During the course of time, all susceptible agents within an arbitrary critical distance get infected and hence infectious themselves.
 
 
-![Visualisation](outbreak.mp4)
+![Visualisation](https://raw.githubusercontent.com/Staphylosaurus/simple-agent-based-spatial-epidemics-model/master/outbreak.mp4)
 
 
 <video controls>
-  <source src="outbreak.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/Staphylosaurus/simple-agent-based-spatial-epidemics-model/master/outbreak.mp4" type="video/mp4">
 </video>
 
